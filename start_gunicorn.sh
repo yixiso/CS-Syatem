@@ -1,0 +1,1 @@
+gunicorn app:app -t 180 -b 0.0.0.0:8100
